@@ -1,2 +1,2 @@
 
-![363315158_258742360345306_382775821139764401_n (1)](https://github.com/RaidenShogun503/RaidenShogun503/assets/131646949/d9c3cea2-1d78-4872-ab7d-fa2811987ff3)
+![image](https://github.com/RaidenShogun503/RaidenShogun503/assets/131646949/31b6ec11-0cb7-4db4-969f-26c68313b49b)
