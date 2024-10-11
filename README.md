@@ -11,11 +11,11 @@
 ```python
 from typing import Tuple, List, Dict
 
-class Kain:
+class RaidenShogun503:
     pass
 
 
-class Attributes(Kain):
+class Attributes(RaidenShogun503):
     
     @property
     def contact(self) -> Tuple[str, str, str]:
