@@ -59,10 +59,3 @@ class Attributes(Kain):
     <img alt="" src="https://lanyard.cnrad.dev/api/953605651672743998"/>
 </p>
 
-
-</div>
-<p align="center">
-  <a href="https://raw.githubusercontent.com">
-      <img src="https://raw.githubusercontent.com/RaidenShogun503/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
-  </a>
-</p>
